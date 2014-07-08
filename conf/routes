@@ -1,0 +1,2 @@
+GET    /factorial1   controllers.Application1.factorial(n: Int)
+GET    /factorial2   controllers.Application2.factorial(n: Int)
